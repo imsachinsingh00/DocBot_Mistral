@@ -1,0 +1,11 @@
+transformers 
+peft 
+accelerate 
+datasets 
+evaluate 
+bitsandbytes 
+huggingface_hub 
+torch 
+pandas 
+rouge_score
+numpy
